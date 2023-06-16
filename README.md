@@ -5,6 +5,10 @@ Agenda for Jenny Bryan's instruction at:
   * [RaukR: Advanced R for Bioinformatics Summer School](https://nbisweden.github.io/workshop-RaukR-2306/)
   * 2023 June 11 - 22, Visby, Sweden
 
+## Food tonight
+
+- https://www.surfersvisby.se/
+
 ## Pre-work
 
 None!
